@@ -26,7 +26,7 @@
       "title": "LED display",
       "price": 92,
       "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-      "img": "https://www.robotics.org.za/image/cache/wp/gj/generic/LCD-1602-5V-WB/LCD-1602-5V-WB-006-650x350.webp",
+      "img": "https://hobbycomponents.com/3071-large_default/mlink-character-lcd-16x2.jpg",
       "userId": 1
     },
     {
@@ -71,3 +71,4 @@
     }
   ]
 }
+
