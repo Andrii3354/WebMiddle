@@ -3,19 +3,19 @@
   "users": [
     {
       "id": 1,
-      "name": "Alex Robo",
+      "name": "Alex",
       "rating": 4.9,
       "avatar": "https://i.pravatar.cc/200?img=1"
     },
     {
       "id": 2,
-      "name": "Julia Code",
+      "name": "Julia",
       "rating": 5.0,
       "avatar": "https://i.pravatar.cc/200?img=2"
     },
     {
       "id": 3,
-      "name": "Mark Engineer",
+      "name": "Mark",
       "rating": 4.7,
       "avatar": "https://i.pravatar.cc/200?img=3"
     }
@@ -26,7 +26,7 @@
       "title": "LED display",
       "price": 92,
       "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-      "img": "https://via.placeholder.com/200x120?text=LED+display",
+      "img": "https://www.robotics.org.za/image/cache/wp/gj/generic/LCD-1602-5V-WB/LCD-1602-5V-WB-006-650x350.webp",
       "userId": 1
     },
     {
