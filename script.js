@@ -1,5 +1,5 @@
 // TODO: замінити на свій логін і репозиторій
-const API = "https://my-json-server.typicode.com/<user>/<repo>";
+const API = "https://my-json-server.typicode.com/<Andrii3354>/<WebMiddle>";
 
 async function loadProducts() {
   const res = await fetch(`${API}/products`);
