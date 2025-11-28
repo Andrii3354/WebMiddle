@@ -2,7 +2,7 @@ const params = new URLSearchParams(window.location.search);
 const id = params.get("id");
 
 // той самий API, що й у script.js
-const API = "https://my-json-server.typicode.com/<user>/<repo>";
+const API = "https://my-json-server.typicode.com/<Andrii3354>/<WebMiddle>";
 
 async function loadSeller() {
   const res = await fetch(`${API}/sellers/${id}`);
