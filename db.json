@@ -1,1 +1,73 @@
 
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex Robo",
+      "rating": 4.9,
+      "avatar": "https://i.pravatar.cc/200?img=1"
+    },
+    {
+      "id": 2,
+      "name": "Julia Code",
+      "rating": 5.0,
+      "avatar": "https://i.pravatar.cc/200?img=2"
+    },
+    {
+      "id": 3,
+      "name": "Mark Engineer",
+      "rating": 4.7,
+      "avatar": "https://i.pravatar.cc/200?img=3"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "LED display",
+      "price": 92,
+      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+      "img": "https://via.placeholder.com/200x120?text=LED+display",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Arduino UNO",
+      "price": 180,
+      "description": "Brand new and high quality.",
+      "img": "https://via.placeholder.com/200x120?text=Arduino+UNO",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "ESP8266 5V",
+      "price": 300,
+      "description": "This wireless relay is based on the AI-Thinker ESP-01S WiFi module.",
+      "img": "https://via.placeholder.com/200x120?text=ESP8266+5V",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "RGB",
+      "price": 92,
+      "description": "Can make color party.",
+      "img": "https://via.placeholder.com/200x120?text=RGB+LED",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "Resistor 10k Ohm",
+      "price": 18,
+      "description": "Can resist the voltage. Super cool.",
+      "img": "https://via.placeholder.com/200x120?text=Resistor+10k",
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "title": "7-Segment Display",
+      "price": 30,
+      "description": "Epic. Shows digits clearly.",
+      "img": "https://via.placeholder.com/200x120?text=7-segment",
+      "userId": 3
+    }
+  ]
+}
